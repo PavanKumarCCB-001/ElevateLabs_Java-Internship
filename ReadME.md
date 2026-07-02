@@ -8,6 +8,7 @@ Each task is organized in its own folder and includes source code.
 | Task No. | Task Name                     | Folder Link   |
 |------------------|-----------------------------------------|-----------------------------|
 | 1               | Calculator                      | [View Details](Task1/)      |
+| 2               | Student Record Management System                      | [View Details](Task2/)      |
 
 
 🔗 Task Links
